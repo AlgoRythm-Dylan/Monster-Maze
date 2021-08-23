@@ -1,0 +1,22 @@
+name: MonsterMaze
+version: "1.0.0"
+author: AlgoRythm-Dylan
+main: games.glutenfree.MonsterMaze
+api-version: "1.17"
+depend: [ProtocolLib]
+#commands:
+#  resetgame:
+#    usage: /<command>
+#    description: Used to reset the game
+#  addmetogame:
+#    usage: /<command> (all)
+#    description: Debug command to add executor to game. If all is specified, all online players are added to the game
+#  dosemivis:
+#    usage: /<command> (undo)
+#    description: Debug command to make players semi visible. If undo is specified, the effect is undone
+#  startgame:
+#    usage: /<command>
+#    description: Debug command to start the game
+#  placeindicator:
+#    usage: /<command>
+#    description: Debug command clone an indicator to your location
